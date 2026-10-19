@@ -2,6 +2,6 @@ class Example3
 {
     public static void main(String[] args)
     {
-        System.out.println("giving the java exam");
+        System.out.println("giving the java exam on SundayS");
     }
 }
